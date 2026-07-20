@@ -43,7 +43,7 @@ I believe great software is more than clean code, rather, it's about creating ex
 
 ## 📫 Let's Connect
 
-* 💼 LinkedIn: **linkedin.com/in/jackson15**
+* 💼 LinkedIn: **[LinkedIn](https://linkedin.com/in/jackson15)**
 * 🏫 School Email: **johnathan.jackson@mymona.uwi.edu**
 * 👨🏾‍💼 Professional Email: **iamjohnathanj@gmail.com**
 
