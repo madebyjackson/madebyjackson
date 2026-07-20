@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jackson
 
-<!--
-**madebyjackson/madebyjackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the **University of the West Indies (UWI), Mona** with a passion for building software that solves real-world problems. My interests span **Artificial Intelligence, Cybersecurity, IT, and UI/UX Design**, and I'm always looking for opportunities to learn something new and apply it through hands-on projects.
 
-Here are some ideas to get you started:
+When I'm not actively learning, you'll probably find me designing in Photoshop, exploring emerging technologies, or contributing to projects that challenge me to grow as an emerging tech professional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+* Building AI-powered applications and healthcare technology projects
+* Strengthening my software engineering and cybersecurity skills
+* Expanding my portfolio with meaningful, production-quality projects
+* Learning modern development tools, cloud technologies, and best practices
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Java
+* Python
+* SQL
+
+**Tools & Technologies**
+
+* Git & GitHub
+* Google Colab & Jupyter Notebooks
+* Linux
+* VS Code
+* Adobe Photoshop
+* Adobe Illustrator
+
+## 📈 Currently Learning
+
+* AI and Machine Learning
+* Networking and Network Security
+* Software Architecture
+
+## 🌟 Beyond the Code
+
+I believe great software is more than clean code, rather, it's about creating experiences that are reliable, intuitive, and genuinely useful. Every project is an opportunity to improve my technical skills while building something that makes a difference.
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: **linkedin.com/in/jackson15**
+
+> *"Keep trying. Keep learning. Keep building."* 🚀
