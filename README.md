@@ -6,7 +6,7 @@ When I'm not actively learning, you'll probably find me designing in Photoshop, 
 
 ## 🚀 What I'm Working On
 
-* Building AI-powered applications and healthcare technology projects with [CariSurg]{https://www.carisurg.com/}
+* Building AI-powered applications and healthcare technology projects with [CariSurg](https://www.carisurg.com/)
 * Strengthening my software engineering and cybersecurity skills
 * Expanding my portfolio with meaningful, production-quality projects
 * Learning modern development tools, cloud technologies, and best practices
