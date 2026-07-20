@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jackson
 
-I'm a Computer Science student at the **University of the West Indies (UWI), Mona** with a passion for building software that solves real-world problems. My interests span **Artificial Intelligence, Cybersecurity, IT, and UI/UX Design**, and I'm always looking for opportunities to learn something new and apply it through hands-on projects.
+I'm a Computer Science student at the **University of the West Indies (UWI), Mona** with a passion for building software that solves real-world problems. My interests span **Artificial Intelligence, Cybersecurity, IT, UI/UX Design and Graphic Design**, and I'm always looking for opportunities to learn something new and apply it through hands-on projects.
 
 When I'm not actively learning, you'll probably find me designing in Photoshop, exploring emerging technologies, or contributing to projects that challenge me to grow as an emerging tech professional.
 
