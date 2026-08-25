@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Jackson%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%C2%B7%20Self-Taught%20Designer%20%C2%B7%20Builder&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=180&section=header&text=Hey,%20I'm%20Jackson%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%C2%B7%20Self-Taught%20Designer%20%C2%B7%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=CS+%40+UWI+Mona;Cybersecurity+%2B+AI+Enthusiast;5+Years+Self-Taught+in+Design;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=500&lines=CS+%40+UWI+Mona;Cybersecurity+%2B+AI+Enthusiast;5+Years+Self-Taught+in+Design;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@ I build things with code and design them to actually look good. Currently deep i
 
 <br>
 
-### 🧰 Stack
+<h3 align="center">🧰 Stack</h3>
 
 <div align="center">
 
@@ -29,7 +29,7 @@ I build things with code and design them to actually look good. Currently deep i
 
 <br>
 
-### 📊 Stats
+<h3 align="center">📊 Stats</h3>
 
 <div align="center">
 
@@ -40,7 +40,7 @@ I build things with code and design them to actually look good. Currently deep i
 
 <br>
 
-### 🔗 Connect
+<h3 align="center">🔗 Connect</h3>
 
 <div align="center">
 
