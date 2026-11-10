@@ -6,11 +6,11 @@
 
 </div>
 
-I build things with code and design them to actually look good. Currently deep in **AI-powered healthcare tools** with [CariSurg](https://www.carisurg.com/), sharpening my software engineering + cybersecurity chops, and growing a design practice that's been running for 5 years.
+I build things with code and design them to actually look good. Currently finalizing my Bachelor's Degree in Computer Science UWI, Mona.
 
 <br>
 
-<h3 align="center">🧰 Stack</h3>
+<h3 align="center"> 👨🏾‍💻 Tech Stack</h3>
 
 <div align="center">
 
